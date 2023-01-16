@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html,
+body {
+  background-color: #d3d1d113;
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.content {
+  flex: 1;
+  padding: 100px 80px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("./fonts/Montserrat-Black.ttf"),
+    url("./fonts/Montserrat-BlackItalic.ttf"),
+    url("./fonts/Montserrat-Bold.ttf"), url("./fonts/Montserrat-BoldItalic.ttf"),
+    url("./fonts/Montserrat-ExtraBold.ttf"),
+    url("./fonts/Montserrat-ExtraLight.ttf"),
+    url("./fonts/Montserrat-ExtraLightItalic.ttf"),
+    url("./fonts/Montserrat-Light.ttf"),
+    url("./fonts/Montserrat-LightItalic.ttf"),
+    url("./fonts/Montserrat-Medium.ttf"),
+    url("./fonts/Montserrat-MediumItalic.ttf"),
+    url("./fonts/Montserrat-Regular.ttf"),
+    url("./fonts/Montserrat-SemiBold.ttf"),
+    url("./fonts/Montserrat-SemiBoldItalic.ttf"),
+    url("./fonts/Montserrat-Thin.ttf"), url("./fonts/Montserrat-ThinItalic.ttf");
+}

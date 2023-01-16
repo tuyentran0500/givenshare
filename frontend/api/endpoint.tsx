@@ -1,0 +1,6 @@
+export const BASE_API = process.env.NEXT_PUBLIC_SERVER_URL ?? 'http://localhost:8000'
+export const USER_API = BASE_API + '/api/users/'
+export const PROJECTS_API = BASE_API + '/api/projects/'
+export const DONATES_API = BASE_API + '/api/donates/'
+export const DONATES_STRIPE_API = DONATES_API + '/create-checkout-session/'
+export const DONATES_PROJECT_FETCH_API = DONATES_API + '/project/'

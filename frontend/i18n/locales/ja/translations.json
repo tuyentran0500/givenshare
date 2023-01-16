@@ -1,0 +1,195 @@
+{
+    "components": {
+        "projects": {
+            "feature-projects": "注目のプロジェクト",
+            "final_stretch_projects": "注目のプロジェクト",
+            "soon_to_miss_projects": "期限が近いプロジェクト",
+            "project_we_love": "お気に入りのプロジェクト",
+            "back_this_project": "このプロジェクトを支援する",
+            "see_more": "もっと探す🤓",
+            "new_project_signup": {
+                "title": "素晴らしいプロジェクトをお見逃しなく",
+                "subtitle": "登録して更新を受け取ってみる",
+                "placeholder": "メールアドレスを入力"
+            },
+            "add_project": {
+                "title": "タイトル",
+                "category": "カテゴリー",
+                "subtitle": "サブタイトル",
+                "goal": "達成目標",
+                "description": "説明",
+                "end_date": "終了期日",
+                "cover_image": "カバー画像",
+                "visual_medias": "動画",
+                "choose_cover": "画像を選択して追加する(16x9*)",
+                "reselect_cover": "他のカバー画像を選択し追加する (16x9*)",
+                "choose_media": "動画ファイルを選択し追加する",
+                "create_project": "新しくプロジェクとを作成"
+            }
+        },
+        "auth": {
+            "email": "メールアドレスを入力",
+            "password": "パスワードを入力",
+            "password2": "パスワードの確認",
+            "forget_password": "パスワードを忘れてしまった場合 🤔",
+            "login": "ログイン",
+            "signup": "サインアップ",
+            "submit": "送信"
+        },
+        "progress": {
+            "pledged": "目標金額",
+            "backers": "支援者",
+            "day": "残り日数",
+            "hours": "残り時間"
+        },
+        "user_card": {
+            "organizer": "作成者"
+        },
+        "featured_projects": {
+            "see_details": "詳細を開く"
+        },
+        "user_navbar": {
+            "profile": "プロフィール",
+            "logout": "ログアウト"
+        }
+    },
+    "categories": [
+        "テクノロジー",
+        "科学",
+        "インターネット",
+        "募金",
+        "あげます",
+        "教えてください",
+        "その他"
+    ],
+    "page": {
+        "navbar": {
+            "discover": "探してみる",
+            "new_project": "新しいプロジェクト",
+            "title": "GivenShare",
+            "signin": "サインイン",
+            "helper": "支援方法"
+        },
+        "search": {
+            "title": "全ての人に機会を",
+            "subtitle1": "共にプロジェクトを積み上げる楽しみを。",
+            "subtitle2": "ぜひクリエイターを信じて支援してみましょう。",
+            "placeholder": "プロジェクトを探す"
+        },
+        "statistic": {
+            "title": "昨日までに行われた支援数",
+            "funded_projects": "募金されたプロジェクト",
+            "goal": "目標",
+            "backed_projects": "支援されたプロジェクト"
+        },
+        "footer": {
+            "connect": "ソーシャルネットワークでつながる:",
+            "about": "概要",
+            "about_us": "当サイトについて",
+            "explore": "その他",
+            "contact": "お問合せ",
+            "info": "ご案内",
+            "privacy_policy": "プライバシーポリシー",
+            "toggle": "通貨",
+            "language": {
+                "title": "言語",
+                "en": "英語",
+                "jp": "日本語"
+            },
+            "currency": {
+                "title": "通貨",
+                "yen": "円",
+                "dollar": "ドル"
+            }
+        },
+        "login": {
+            "header": "サインイン",
+            "google": "Google",
+            "facebook": "Facebook",
+            "signup_message": "アカウントを作成しますか？　"
+        },
+        "signup": {
+            "header": "メールアドレスで登録する",
+            "login_message": "既にアカウントを持っていますか？　"
+        },
+        "passwordreset": {
+            "header": "パスワードのリセット",
+            "success_message": "あなたのメールアドレスにパスワードをリセットするためのURLを送信させていただきました。もし見つからない場合は迷惑メールフォルダをご確認ください。"
+        },
+        "projectDetail": {
+            "description": "説明",
+            "comment": "コメント",
+            "donateModal": {
+                "header": "困っている人を救うために寄付する",
+                "description": "本当にありがとうございます。どのような金額でも多大な助けになります!"
+            }
+        },
+        "user_detail": {
+            "name": "名前",
+            "biography": "自己紹介",
+            "contact": "連絡先",
+            "phone": "電話番号",
+            "location": "居住地",
+            "websites": "ウェブサイト",
+            "website": "ウェブサイト",
+            "add_website": "ウェブサイトを追加する",
+            "no_website": "ウェブサイトはありません",
+            "joined": "アカウント作成日",
+            "about": "概要",
+            "created": "作成したプロジェクト",
+            "backed": "支援したプロジェクト",
+            "edit_profile": "プロフィールを編集する",
+            "edit_your_profile": "自分のプロフィールを編集する",
+            "save": "保存",
+            "cancel": "キャンセル",
+            "no_project": "このユーザーのプロジェクトはありません",
+            "update_success": "プロフィールがアップデートされました！",
+            "update_error": "プロフィールの更新に問題がありました。"
+        },
+        "about": {
+            "header": {
+                "aboutUs": "私たちについて",
+                "member": "メンバー"
+            },
+            "content": {
+                "aboutUs": "私たちは東洋大学の 4 人の学生 (アーニャが大好き😅) のグループです。\nGive&Share は、INIAD 実習の授業の一環として行ったプロジェクトであり、このウェブサイトは、人々がチャリティーに対して同じビジョンを共有するプラットフォームです。 \n協力して資金を援助しあい夢を実現させましょう。\nこのプロジェクトの目的は、現代社会に必要なインターネット、テクノロジー、その他の設備へのアクセスを必要としている人々にそれらを提供することで、「デジタル デバイド」によって生じる格差を縮めることです。 \n私たちは、最新のシステムと技術へのアクセスが健康的なライフスタイルと同じように不可欠であり、誰もが成功への権利とチャンスに値すると信じています。\n特集されているすべてのプロジェクトまたは慈善団体、ユーザーは安全と品質を確保するために私たちによって審査されています。\nプロジェクトは非営利であり、寄付は運用コストを除いて直接目的に使用されます。",
+                "members": {
+                    "Tuyen": [
+                        "Googleにてソフトウェアエンジニアインターン",
+                        "ベトナム情報オリンピックで3位入賞",
+                        "Wibu 取得済"
+                    ],
+                    "Vinh": [
+                        "rinna株式会社にてソフトウェアエンジニアインターン",
+                        "「私のコードにはバグは存在しないが、取り外せない機能は存在する」😥。"
+                    ],
+                    "Phuong": [
+                        "ウーブン・プラネット・ホールディングスにてソフトウェアエンジニアインターン",
+                        "non-Wibu 取得済"
+                    ],
+                    "Shota": [
+                        "学外でモトクロスの選手として活動しています。\nその経験をこの支援活動に活かして行けたら良いなと考えています。",
+                        "社会人モトクロスチーム　SS Racing 代表",
+                        "2021 MCFAJ NF1クラス シリーズチャンピオン",
+                        "2022 MFJ 関東モトクロス選手権 NBクラス10位",
+                        "2022 MFJ モトクロス全国大会出場資格獲得"
+                    ]
+                }
+            },
+            "role": {
+                "developer": "開発者",
+                "designer": "デザイナー"
+            }
+        }
+    },
+    "pageTitle": {
+        "project": "プロジェクト",
+        "aboutUs": "私たちについて",
+        "profile": "プロフィール",
+        "homepage": "ホームページ",
+        "login": "ログイン",
+        "signup": "アカウント作成",
+        "resetPW": "パスワードをリセットする🧐",
+        "start": "プロジェクトを新規作成する📝"
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "components": {
+        "projects": {
+            "feature-projects": "FEATURED PROJECTS",
+            "final_stretch_projects": "FINAL STRETCH PROJECTS",
+            "soon_to_miss_projects": "SOON TO MISS",
+            "project_we_love": "Project we love",
+            "back_this_project": "Back this project",
+            "see_more": "See more 🤓",
+            "new_project_signup": {
+                "title": "Don't miss new wonderful Projects",
+                "subtitle": "Sign up for new projects and updates",
+                "placeholder": "Enter your E-mail"
+            },
+            "add_project": {
+                "title": "New project title",
+                "subtitle": "Subtitle",
+                "category": "Category",
+                "goal": "Goal",
+                "description": "Description",
+                "end_date": "End date",
+                "cover_image": "Cover Image",
+                "visual_medias": "Visual medias",
+                "choose_cover": "Select a cover image or drop one here (16x9*)",
+                "reselect_cover": "Select another cover or drop one here (16x9*)",
+                "choose_media": "Drop the files here or select file(s)",
+                "create_project": "Create New Project"
+            }
+        },
+        "auth": {
+            "email": "Email",
+            "password": "Password",
+            "password2": "Re-enter password",
+            "forget_password": "Forgot password? 🤔",
+            "login": "Login",
+            "signup": "Sign Up",
+            "submit": "Submit"
+        },
+        "progress": {
+            "pledged": "pledged of",
+            "backers": "backers",
+            "day": "days left",
+            "hours": "hours to go"
+        },
+        "user_card": {
+            "organizer": "Organizer"
+        },
+        "featured_projects": {
+            "see_details": "See Details"
+        },
+        "user_navbar": {
+            "profile": "Profile",
+            "logout": "Logout"
+        }
+    },
+    "categories": [
+        "Technology",
+        "Science",
+        "Internet",
+        "Donation",
+        "Giveaway",
+        "Help request",
+        "Others"
+    ],
+    "page": {
+        "navbar": {
+            "discover": "Discover",
+            "new_project": "Start a new project",
+            "title": "GivenShare",
+            "signin": "Sign in",
+            "helper": "How it works"
+        },
+        "search": {
+            "title": "Bring the best to everyone",
+            "subtitle1": "Support creative worker and see the buildup of the project with each updates.",
+            "subtitle2": "Back it and believe it.",
+            "placeholder": "Search Projects"
+        },
+        "statistic": {
+            "title": "Within The Last Day",
+            "funded_projects": "Projects Funded",
+            "goal": "Towards Helping Children",
+            "backed_projects": "Backed Projects"
+        },
+        "footer": {
+            "connect": "Get connected with us on social networks:",
+            "about": "About",
+            "about_us": "About us",
+            "explore": "Explore",
+            "contact": "Contact",
+            "info": "Info",
+            "privacy_policy": "Privacy Policy",
+            "toggle": "CURRENCY",
+            "language": {
+                "title": "Language",
+                "en": "English",
+                "jp": "Japanese"
+            },
+            "currency": {
+                "title": "Currency",
+                "yen": "YEN (JPY)",
+                "dollar": "Dollar ($)"
+            }
+        },
+        "login": {
+            "header": "Sign in",
+            "google": "Google",
+            "facebook": "Facebook",
+            "signup_message": "New member?  "
+        },
+        "signup": {
+            "header": "Sign Up",
+            "login_message": "Go to Login"
+        },
+        "passwordreset": {
+            "header": "Reset your password",
+            "success_message": "We sent an email to your email included a link to reset your email. If not found, please check in the spam inbox."
+        },
+        "projectDetail": {
+            "description": "Description",
+            "comment": "Comment",
+            "donateModal": {
+                "header": "Donate to Save those in Need",
+                "description": "We really appreciate your support, any amount will be a huge help!"
+            }
+        },
+        "user_detail": {
+            "name": "Name",
+            "biography": "Biography",
+            "contact": "Contact",
+            "phone": "Phone",
+            "location": "Location",
+            "websites": "Websites",
+            "website": "Website",
+            "add_website": "Add new website",
+            "no_website": "There is no website.",
+            "joined": "Joined since",
+            "about": "About",
+            "created": "Created",
+            "backed": "Backed",
+            "edit_profile": "Edit profile",
+            "edit_your_profile": "Edit your profile",
+            "save": "Save",
+            "cancel": "Cancel",
+            "no_project": "There is no project in this user profile.",
+            "update_success": "Updated your profile successfully!",
+            "update_error": "Cannot update your profile."
+        },
+        "about": {
+            "header": {
+                "aboutUs": "About us",
+                "member": "Members"
+            },
+            "content": {
+                "aboutUs": "We are a group of 4 students (who love Anya 😅) from Toyo university and Give&Share is a proof-of-concept project we've done as a part of our INIAD Practice class.\nIt’s a platform where people share the same visions for charity work come together to fund them and make dreams come true.\nThe aim of the project is to shorten the gap caused by \"digital divde\" by providing those in needs with access to internet, technology, and other amenities needed in the modern world.\nWe believe that access to modern facilities and technologies are essential to a healthy lifestyle and equality, and that everyone deserves the right and a chance to success.\nEach and every projects or charities featured has been vested by us to ensure safety and quality to both users and those in need.\nThe project is non-profit and every single dollars you give will be directly for the cause barring operational cost.\n ",
+                "members": {
+                    "Tuyen": [
+                        "SWE Intern at Google",
+                        "Won the third prize at Vietnam National Olympiad of Informatics",
+                        "Certificated Wibu"
+                    ],
+                    "Vinh": [
+                        "Software engineer intern at rinna Corp",
+                        "“Bugs never exist in my code, but irremovable features”😥"
+                    ],
+                    "Phuong": [
+                        "Software engineer intern at Woven Planet Holdings",
+                        "Certified non-Wibu"
+                    ],
+                    "Shota": [
+                        "I am a motocross racer off campus. I hope to use my experience in this support activity.",
+                        "Representative of SS Racing, a motocross team for working people",
+                        "2021 MCFAJ NF1 class series champion",
+                        "2022 MFJ Kanto Motocross Championship NB Class 10th",
+                        "2022 Qualified for MFJ Motocross Nationals"
+                    ]
+                }
+            },
+            "role": {
+                "developer": "Developer",
+                "designer": "Designer"
+            }
+        }
+    },
+    "pageTitle": {
+        "project": "Project",
+        "aboutUs": "About us ",
+        "profile": "Profile",
+        "homepage": "Homepage",
+        "login": "Login",
+        "signup": "Sign Up",
+        "resetPW": "Reset your password 🧐",
+        "start": "Start a new project 📝"
+    }
+}
